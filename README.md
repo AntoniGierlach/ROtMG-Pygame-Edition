@@ -39,7 +39,7 @@ A fast-paced 2D action shooter inspired by *Realm of the Mad God*, created using
 
 ---
 
-## 🎥 Gameplay Preview (WebM)
+## 🎥 Gameplay Preview
 
 ▶️ [Watch gameplay](https://imgur.com/a/rCwHDYg)
 
